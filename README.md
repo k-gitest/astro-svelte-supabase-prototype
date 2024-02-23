@@ -57,6 +57,7 @@ create astro@latest -- --template basicsとSupabaseで構築されたwebアプ�
 - 型チェックやテストなど大きな問題はなかったがリファレンスなどに書いてない事も多く分かり難いが対応できる範囲である
 - 部分的に変える事ができるのがastroの良いところだと感じる
 - UIテストツールが動かなかったので、クラウドのautifyやmagicpodのお試しを利用してみたが、テストが非常に簡単に感じるほど時間短縮できる
+- 型チェックやテスト、CI自動化などでのtsx系とsvelteに関してはissuesにあげておく
 
 [astroとDB](https://github.com/k-gitest/astro-supa-auth-database)
 
